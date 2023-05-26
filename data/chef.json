@@ -1,0 +1,56 @@
+[
+    {
+        "chefId": 1,
+        "chefPicture": "https://img.freepik.com/premium-photo/young-female-chef-blurred-background_488220-40106.jpg?w=740",
+        "chefName": "Rebecca Smith",
+        "yearsOfExperience": 7,
+        "numberOfRecipes": 50,
+        "likes": 1000,
+        "chefBio": "Rebecca is a seasoned chef with 10 years of experience in creating delectable dishes. He is known for his innovative recipes that fuse different culinary styles, and his attention to detail in presentation. John has worked in some of the top restaurants in the world, and has won several awards for his culinary creations."
+    },
+    {
+        "chefId": 2,
+        "chefPicture": "https://www.sogoodmagazine.com/wp-content/uploads/2013/06/Female-Chefs-Kitchen-Still-Feels-Like-Man-World-300x300.jpg",
+        "chefName": "Giada De Laurentiis ",
+        "yearsOfExperience": 3,
+        "numberOfRecipes": 20,
+        "likes": 500,
+        "chefBio": "Giada is a rising star in the culinary world, with a passion for using fresh, locally-sourced ingredients in her dishes. She has trained with some of the top chefs in the industry, and has worked in some of the best restaurants in the country. Jane's unique approach to cooking has earned her a loyal following, and she continues to push the boundaries of what is possible in the kitchen."
+    },
+    {
+        "chefId": 3,
+        "chefPicture": "https://img.freepik.com/free-photo/chef-with-his-arms-crossed-white-background_1368-2792.jpg?w=740&t=st=1683011772~exp=1683012372~hmac=f78e0348dc0c2c895db2e0b2ffac99d551c4079caca0a763f1cf454e83582112",
+        "chefName": "Michael Lee",
+        "yearsOfExperience": 11,
+        "numberOfRecipes": 100,
+        "likes": 2000,
+        "chefBio": "Michael is a veteran chef with 15 years of experience in creating amazing dishes that delight the senses. He is a master of flavor and texture, and has a talent for blending different cuisines to create unique and unforgettable dishes. Michael has worked in some of the most prestigious restaurants in the world, and has won numerous awards for his culinary creations."
+    },
+    {
+        "chefId": 6,
+        "chefPicture": "https://img.freepik.com/premium-photo/beautiful-sexy-young-woman-cooking-fresh-meal-isolated-white_252591-3317.jpg?w=740",
+        "chefName": "Maria Rodriguez",
+        "yearsOfExperience": 4,
+        "numberOfRecipes": 40,
+        "likes": 1845,
+        "chefBio": "Maria is a versatile chef with a passion for creating dishes that showcase the flavors and ingredients of her native Mexico. She has trained in some of the top restaurants in the country, and has developed a reputation for her bold and flavorful dishes that are both satisfying and innovative. Maria is always looking for new and exciting ways to push the boundaries of what is possible in the kitchen."
+    },
+    {
+        "chefId": 5,
+        "chefPicture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=996&t=st=1683012997~exp=1683013597~hmac=50c8392c2e5224a8c504cbb59930a2dc8b44284ebf1d85c0695461a5eb462c9a",
+        "chefName": "David Brown",
+        "yearsOfExperience": 6,
+        "numberOfRecipes": 75,
+        "likes": 1500,
+        "chefBio": "David is a passionate chef with a deep love for creating delicious and satisfying dishes. He has a talent for combining different flavors and textures to create unique and memorable dishes, and he is always experimenting with new ingredients and techniques in the kitchen. David has worked in some of the best restaurants in the world, and has won several awards for his culinary creations."
+    },
+    {
+        "chefId": 4,
+        "chefPicture": "https://s.alicdn.com/@sc04/kf/Hf81486f249ee472ebff80fd15d2d5747n.png_720x720q50.png",
+        "chefName": "Samantha Johnson",
+        "yearsOfExperience": 2,
+        "numberOfRecipes": 18,
+        "likes": 800,
+        "chefBio": "Samantha is a creative chef who loves to experiment with different ingredients and techniques in the kitchen. She has a passion for creating dishes that are both delicious and visually stunning, and she is always looking for new and exciting ways to push the boundaries of what is possible in the culinary world. Samantha has worked in several top restaurants, and has won several awards for her innovative cooking."
+    }
+]

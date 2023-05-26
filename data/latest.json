@@ -1,0 +1,149 @@
+[
+    {
+        "recipeId": "r7",
+        "recipeName": "Chocolate Chip Cookies",
+        "ingredients": [
+            "1/2 cup unsalted butter, softened",
+            "1/2 cup white sugar",
+            "1/2 cup brown sugar",
+            "1 egg",
+            "1 tsp. vanilla extract",
+            "1 1/2 cups all-purpose flour",
+            "1/2 tsp. baking soda",
+            "1/4 tsp. salt",
+            "1 cup semisweet chocolate chips",
+            "1/2 cup chopped walnuts (optional)"
+        ],
+        "cookingMethod": [
+            "Preheat the oven to 375°F (190°C).",
+            "In a large mixing bowl, cream together the butter, white sugar, and brown sugar until light and fluffy.",
+            "Beat in the egg and vanilla extract.",
+            "In a separate bowl, whisk together the flour, baking soda, and salt.",
+            "Add the flour mixture to the butter mixture and stir until well combined.",
+            "Fold in the chocolate chips and chopped walnuts, if using.",
+            "Drop spoonfuls of dough onto a baking sheet lined with parchment paper.",
+            "Bake for 8-10 minutes, or until the edges are golden brown.",
+            "Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+            "Serve warm or at room temperature."
+        ],
+        "rating": 4.8,
+        "chefId": 5,
+        "imageUrl": "https://raw.githubusercontent.com/ashikur-rahman-10/dummy-data-repo/main/Foodie-Frenzy/Chocolate%20Chip%20Cookies.jpeg"
+    },
+    {
+        "recipeId": "r22",
+        "recipeName": "Spaghetti Carbonara",
+        "ingredients": [
+            "1 lb. spaghetti",
+            "4 oz. pancetta, diced",
+            "4 large egg yolks",
+            "1 cup freshly grated Parmesan cheese",
+            "1/2 cup heavy cream",
+            "Salt and pepper, to taste",
+            "Chopped fresh parsley, for serving"
+        ],
+        "cookingMethod": [
+            "Cook the spaghetti according to package instructions until al dente.",
+            "In a large skillet, cook the pancetta over medium heat until crispy.",
+            "In a bowl, whisk together the egg yolks, Parmesan cheese, and heavy cream.",
+            "When the spaghetti is done, reserve 1 cup of the pasta water and drain the rest.",
+            "Add the spaghetti to the skillet with the pancetta and toss to coat.",
+            "Remove the skillet from the heat and add the egg mixture, stirring constantly to avoid curdling.",
+            "Add pasta water as needed to thin the sauce.",
+            "Season with salt and pepper to taste.",
+            "Serve hot, garnished with chopped fresh parsley."
+        ],
+        "rating": 4.9,
+        "chefId": 4,
+        "imageUrl": "https://raw.githubusercontent.com/ashikur-rahman-10/dummy-data-repo/main/Foodie-Frenzy/Spaghetti%20Carbonara.jpeg"
+    },
+    {
+        "recipeId": "r1",
+        "recipeName": "Beef Stir-Fry",
+        "ingredients": [
+            "1 lb. beef sirloin, sliced",
+            "1 tbsp. cornstarch",
+            "2 tbsp. soy sauce",
+            "1 tbsp. rice vinegar",
+            "1 tsp. sugar",
+            "1/4 cup beef broth",
+            "2 tbsp. vegetable oil",
+            "1 large onion, sliced",
+            "1 red bell pepper, sliced",
+            "1 green bell pepper, sliced",
+            "1 cup snow peas",
+            "3 cloves garlic, minced",
+            "1 tbsp. grated ginger",
+            "Salt and pepper, to taste"
+        ],
+        "cookingMethod": [
+            "In a small bowl, whisk together the cornstarch, soy sauce, rice vinegar, sugar, and beef broth.",
+            "In a large skillet or wok, heat the vegetable oil over high heat.",
+            "Add the beef to the skillet and cook until browned.",
+            "Remove the beef from the skillet and set aside.",
+            "Add the onion, bell peppers, snow peas, garlic, and ginger to the skillet and stir-fry until tender.",
+            "Return the beef to the skillet and add the soy sauce mixture.",
+            "Cook, stirring constantly, until the sauce has thickened and the beef is cooked through.",
+            "Season with salt and pepper to taste.",
+            "Serve hot with steamed rice."
+        ],
+        "rating": 4.7,
+        "chefId": 4,
+        "imageUrl": "https://raw.githubusercontent.com/ashikur-rahman-10/dummy-data-repo/main/Foodie-Frenzy/Beef%20Stir-Fry.jpeg"
+    },
+    {
+        "recipeId": "r3",
+        "recipeName": "Mediterranean Chicken",
+        "ingredients": [
+            "4 boneless, skinless chicken breasts",
+            "1/4 cup olive oil",
+            "2 tbsp. balsamic vinegar",
+            "1 tsp. dried oregano",
+            "1 tsp. garlic powder",
+            "1 tsp. salt",
+            "1/2 tsp. black pepper",
+            "1/2 cup cherry tomatoes, halved",
+            "1/2 cup kalamata olives, pitted and halved",
+            "1/4 cup crumbled feta cheese",
+            "2 tbsp. chopped fresh parsley"
+        ],
+        "cookingMethod": [
+            "Preheat the oven to 400°F (200°C).",
+            "In a small bowl, whisk together the olive oil, balsamic vinegar, oregano, garlic powder, salt, and black pepper.",
+            "Place the chicken breasts in a baking dish and pour the olive oil mixture over the top, turning to coat evenly.",
+            "Bake for 20-25 minutes, or until the chicken is cooked through and no longer pink in the center.",
+            "Remove the chicken from the oven and sprinkle with the cherry tomatoes, kalamata olives, feta cheese, and chopped parsley.",
+            "Return the chicken to the oven and bake for an additional 5-10 minutes, or until the cheese is melted and bubbly.",
+            "Serve hot with a side salad or roasted vegetables."
+        ],
+        "rating": 4.3,
+        "chefId": 6,
+        "imageUrl": "https://healthyfitnessmeals.com/wp-content/uploads/2021/05/Mediterranean-chicken-6.jpg"
+    },
+    {
+        "recipeId": "r23",
+        "recipeName": "Spinach and Feta Stuffed Chicken",
+        "ingredients": [
+            "4 boneless, skinless chicken breasts",
+            "1 cup chopped spinach",
+            "1/2 cup crumbled feta cheese",
+            "1/4 cup chopped sun-dried tomatoes",
+            "2 cloves garlic, minced",
+            "Salt and pepper, to taste",
+            "2 tbsp. olive oil"
+        ],
+        "cookingMethod": [
+            "Preheat the oven to 400°F (200°C).",
+            "In a small bowl, mix together the chopped spinach, crumbled feta cheese, chopped sun-dried tomatoes, minced garlic, salt, and pepper.",
+            "Using a sharp knife, cut a pocket into each chicken breast.",
+            "Divide the spinach and feta mixture evenly among the chicken breasts, stuffing it into the pockets.",
+            "Heat the olive oil in a large skillet over medium-high heat.",
+            "Add the stuffed chicken breasts to the skillet and cook for 2-3 minutes on each side, or until golden brown.",
+            "Transfer the chicken breasts to a baking dish and bake for 20-25 minutes, or until the chicken is cooked through and no longer pink in the center.",
+            "Serve hot with a side salad or roasted vegetables."
+        ],
+        "rating": 4.8,
+        "chefId": 5,
+        "imageUrl": "https://www.skinnytaste.com/wp-content/uploads/2021/01/Spinach-Tomato-and-Feta-Stuffed-Chicken-Breast-9.jpg"
+    }
+]
